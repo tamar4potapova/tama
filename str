@@ -1,0 +1,4 @@
+mini-calculator/
+├─ README.md
+├─ calculator.py
+└─ .gitignore
